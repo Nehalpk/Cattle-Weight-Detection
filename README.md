@@ -1,2 +1,2 @@
 # Cattle-Weight-Detection-Mode-test
-Deep learning,Machine Learning
+Deep learning,Machine Learning, AI
